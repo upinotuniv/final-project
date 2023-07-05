@@ -1,0 +1,32 @@
+import React from 'react';
+
+export default function Close() {
+  return (
+    <svg
+      width='28'
+      height='28'
+      viewBox='0 0 86 82'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+    >
+      <rect
+        x='77.7188'
+        y='2'
+        width='11'
+        height='104'
+        rx='5.5'
+        transform='rotate(48.3567 77.7188 2)'
+        fill='#1E3A8A'
+      />
+      <rect
+        x='3'
+        y='7.63062'
+        width='10.9314'
+        height='103.351'
+        rx='5.4657'
+        transform='rotate(-44.2709 3 7.63062)'
+        fill='#1E3A8A'
+      />
+    </svg>
+  );
+}
